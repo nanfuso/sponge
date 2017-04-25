@@ -1,2 +1,6 @@
 "it's imagination time"
-"who lives in a pineapple under the sea"
+
+
+def sponge
+    puts "hi bob"
+end
